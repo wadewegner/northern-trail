@@ -2,7 +2,19 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "id": "0HoB00000008OJcKAM",
+      "versionName": "v 1.0",
+      "versionDescription": "ver 1.0 - Winter '18",
+      "versionNumber": "1.0.0.NEXT",
+      "ancestorId": "",
+      "features": "",
+      "orgPreferences": {
+          "enabled": [
+              "S1DesktopEnabled"
+          ],
+          "disabled": []
+      }
     }
   ],
   "namespace": "",
